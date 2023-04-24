@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/simple-pokemon-set-generator/static/css/main.073c9b0a.css",
+    "main.js": "/simple-pokemon-set-generator/static/js/main.14983e98.js",
+    "static/js/787.58fe73fe.chunk.js": "/simple-pokemon-set-generator/static/js/787.58fe73fe.chunk.js",
+    "static/media/logo.svg": "/simple-pokemon-set-generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/simple-pokemon-set-generator/index.html",
+    "main.073c9b0a.css.map": "/simple-pokemon-set-generator/static/css/main.073c9b0a.css.map",
+    "main.14983e98.js.map": "/simple-pokemon-set-generator/static/js/main.14983e98.js.map",
+    "787.58fe73fe.chunk.js.map": "/simple-pokemon-set-generator/static/js/787.58fe73fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.14983e98.js"
+  ]
+}
