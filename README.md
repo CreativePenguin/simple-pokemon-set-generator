@@ -1,5 +1,6 @@
 # Github Pages Setup
 
+https://github.com/gitname/react-gh-pages  
 `npm install gh-pages --save-dev`
 
 # Getting Started with Create React App
